@@ -1,5 +1,5 @@
 {
-  "name": "rithik-bunnylol",
+  "name": "infernox64-bunnylol",
   "main": "main.js",
   "scripts": {
     "build": "babel src/ -d compiled/",
